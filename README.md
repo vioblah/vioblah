@@ -3,7 +3,11 @@
 # Intro
 Hello, I go by "vio" as my primary nickname, I have some a bunch of potential but only know how to do very few coding things, anything else is just hopes and prayers.
 
-[![My Skills](https://skillicons.dev/icons?i=discord,cs,js,discordjs,robloxstudio,windows,unity,vscode,visualstudio,lua,py,java)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discord,cs,js,discordjs,robloxstudio,windows,unity,vscode,visualstudio,lua,py,java" />
+  </a>
+</p>
 
 # Friends
 [Rome](https://www.github.com/RomanLordz) - Peak  
