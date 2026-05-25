@@ -1,9 +1,9 @@
 ![Spoke](spoke.jpg)
 
 # Intro
-Hello, I go by "vio" as my primary nickname, I have some coding potential but only know how to code in very few coding languages, anything else is just hopes and prayers.
+Hello, I go by "vio" as my primary nickname, I have some a bunch of potential but only know how to do very few coding things, anything else is just hopes and prayers.
 
-[![My Skills](https://skillicons.dev/icons?i=lua,py,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,cs,js,discordjs,robloxstudio,windows,unity,vscode,visualstudio,lua,py,java)](https://skillicons.dev)
 
 # Friends
 [Rome](https://www.github.com/RomanLordz) - Peak  
