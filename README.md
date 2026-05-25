@@ -1,4 +1,4 @@
-![Spoke](../spoke.jpg)
+![Spoke](spoke.jpg)
 
 # Intro
 Hello, I go by "vio" as my primary nickname.
