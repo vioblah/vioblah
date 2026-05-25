@@ -1,16 +1,12 @@
-## Hi there 👋
+![Spoke](../spoke.jpg)
 
-<!--
-**vioblah/vioblah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Intro
+Hello, I go by "vio" as my primary nickname.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Friends
+[Rome](https://www.github.com/RomanLordz) - Peak  
+[bakersrule2020](https://www.github.com/bakersrule2020) - Modder  
+[tedmcbur](https://github.com/tedmcbur) - Decent  
+  
+# What I Made  
+I used to make extensions on this Scratch copy called [PenguinMod](https://extensions.penguinmod.com), I also worked on several small Roblox scripts however none of them are extremely good.
